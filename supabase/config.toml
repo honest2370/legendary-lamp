@@ -1,0 +1,17 @@
+[project]
+id = "gffzzhbvqorepaycpcqz"
+
+[functions.ashtechpay-collect]
+verify_jwt = false
+
+[functions.ashtechpay-webhook]
+verify_jwt = false
+
+[functions.ashtechpay-status]
+verify_jwt = true
+
+[functions.ashtechpay-fees]
+verify_jwt = true
+
+[functions.ashtechpay-countries]
+verify_jwt = true
